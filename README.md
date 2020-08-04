@@ -17,9 +17,9 @@ Permitts the execution of ArcGIS Web AppBuilder (Developper Edition) inside a Do
 
 ## Git Hub project files
 
-- Download project form Git Hub to be able to create an image suitable to your needs.
+- Download "clone" project form Git Hub to be able to create an image suitable to your needs.
 ```
-  $ git pull
+  $ git clone https://github.com/SGuibord/arcgis-webappbuilder
 ```
 
 ## Dockerizing

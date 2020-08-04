@@ -17,9 +17,9 @@ Permet l'exécution d'ArcGIS Web AppBuilder (Developper Edition) dans un contene
 
 ## Git Hub fichiers projet
 
-- Télécharger les fichiers sources de ce projet depuis Git Hub afin de vous permettre de modifier cette image selon vos besoins.
+- Télécharger "clone" les fichiers sources de ce projet depuis Git Hub afin de vous permettre de modifier cette image selon vos besoins.
 ```
-  $ git pull
+  $ git clone https://github.com/SGuibord/arcgis-webappbuilder
 ```
 
 ## Actions Docker
