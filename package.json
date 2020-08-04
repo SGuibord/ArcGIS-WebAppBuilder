@@ -1,8 +1,8 @@
 {
-  "name": "webappbuilder-for-arcgis",
+  "name": "arcgis-web-appbuilder-developper",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SGuibord/arcgis-webappbuilder"
+    "url": "https://github.com/SGuibord/arcgis-web-appbuilder"
   },
   "version": "1.0.0",
   "description": "ArcGIS - Web AppBuilder (Developper Edition) on Docker",

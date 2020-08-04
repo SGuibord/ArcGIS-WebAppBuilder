@@ -104,11 +104,11 @@ Il allez devoir répondre aux questions suivantes :
 
 - Spécifiez l'URL de votre organisation ArcGIS Online ou Portal : 
     
-    https://www.arcgis.com/
+  https://www.arcgis.com/
 
 - Fournissez le app ID de l'application ayant servi pour l'enregistrement.
 
-    Suivre ce [lien](https://developers.arcgis.com/web-appbuilder/guide/getstarted.htm#ESRI_SECTION1_F2CE6567CB854E4AB43F08EB64B3D7AE) pour savoir comment accèder au app ID de l'application.
+  Suivre ce [lien](https://developers.arcgis.com/web-appbuilder/guide/getstarted.htm#ESRI_SECTION1_F2CE6567CB854E4AB43F08EB64B3D7AE) pour savoir comment accèder au app ID de l'application.
 
 
 # Références
