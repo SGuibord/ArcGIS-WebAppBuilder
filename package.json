@@ -1,0 +1,18 @@
+{
+  "name": "webappbuilder-for-arcgis",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SGuibord/arcgis-webappbuilder"
+  },
+  "version": "1.0.0",
+  "description": "ArcGIS - Web AppBuilder (Developper Edition) on Docker",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
